@@ -64,3 +64,5 @@ To learn more about **Next.js** and how to build similar apps, check out these r
 - [Learn Next.js](https://nextjs.org/learn) - An interactive Next.js tutorial.
 - [Next.js GitHub Repository](https://github.com/vercel/next.js) - Explore or contribute to the source code.
 
+## 🌐 Deployed on [Vercel](https://vercel.com/)
+To enjoy the online version or this unique masterpiece of art, click [here](https://to-do-app-eight-kappa-41.vercel.app/)
